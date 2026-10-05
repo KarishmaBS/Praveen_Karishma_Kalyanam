@@ -1,0 +1,6 @@
+{
+  "name": "Praveen & Karishma Wedding Invitation",
+  "description": "Digital wedding invitation for Praveen & Karishma with Google Maps navigation, live blessings guestbook synced to Google Sheets, and event details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

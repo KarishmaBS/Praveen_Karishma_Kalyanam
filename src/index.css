@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #fdf9f3;
+  }
+  body {
+    overscroll-behavior: none;
+  }
+}
+
+.chrome-frame {
+  background: linear-gradient(135deg, #e2e4e7 0%, #ffffff 20%, #9ca3af 45%, #ffffff 55%, #6b7280 85%, #d1d5db 100%);
+  box-shadow: 0 16px 36px -8px rgba(0, 0, 0, 0.7), inset 0 1px 3px rgba(255, 255, 255, 0.9), inset 0 -2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.chrome-inner-bevel {
+  background: linear-gradient(180deg, #111827 0%, #1f2937 50%, #030712 100%);
+  box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.9);
+}
+
+.font-wedding-formal {
+  font-family: "Bickham Script Pro", "Edwardian Script ITC", "Snell Roundhand", "Petit Formal Script", "Luxurious Script", "Italianno", "Allura", cursive;
+}
+
+.font-bradley {
+  font-family: "Bradley Hand ITC Bold", "Bradley Hand ITC", "Bradley Hand", "Patrick Hand", "Caveat", cursive;
+  font-weight: 700;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.gold-shimmer {
+  background: linear-gradient(90deg, #ffe082 0%, #fff8e1 50%, #ffe082 100%);
+  background-size: 200% 100%;
+  animation: shimmer 3s infinite linear;
+}
+
