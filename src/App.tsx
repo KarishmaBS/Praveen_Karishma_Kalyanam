@@ -352,14 +352,14 @@ export default function App() {
           {/* FOOTER */}
           <footer className="mt-2 pt-6 border-t border-[#eec14b]/30 flex flex-col items-center text-center gap-2.5 pb-8">
             <p className="text-sm text-[#410f18] italic max-w-md leading-relaxed">
-              &ldquo;Your presence, blessings, and warm wishes are the greatest gifts as we embark on this sacred journey.&rdquo;
+              &ldquo;Laughter shared, memories made, and love celebrated—thank you for being the sweetest part of our big day!&rdquo;
             </p>
             <p className="text-xs text-[#524344]">
-              — With love and best compliments from family, friends, and well-wishers.
+              — With love and best compliments from family & friends.
             </p>
 
             <div className="text-[11px] text-gray-400 mt-2 font-sans">
-              Made with love for <span className="font-semibold text-[#410f18]">#PraveenWedsKarishma</span> • 2026
+              To love and to cherish <span className="font-semibold text-[#410f18]">#PraveenKarishmaKalyanam</span> • 2026
             </div>
           </footer>
         </div>
