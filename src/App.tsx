@@ -106,6 +106,10 @@ export default function App() {
       title: 'Praveen & Karishma – Strolling Together',
     },
     {
+      url: './Sitting.jpg',
+      title: 'Praveen & Karishma – Traditional Sitting Portrait',
+    },
+    {
       url: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAWvGNrNK33B0H8vihMWqm4S14lth10z6y7cBaQZxZmLs43lWsUfDUVNH1a8dKB8TXSLFhxn5VM21fM28Ld7kFyzYRsowVOOZ1aM4CNrX8SnjNJBpwJFTOp_5RYAUM5JtlNa4jtIyYRLBl_Pvz36x3auoehxFuG-6tmWD5NkAZvJ6Vk6GoQ-Itw7rYl5_foeseOHgL90wdqiSGhKYD3C7l3Bc0iAD3goiDNv5kben0v2d48v_bUAOwh8LZtkUDCfqNOYA',
       title: 'Holding Hands – Auspicious Wedding Bangles',
     },
