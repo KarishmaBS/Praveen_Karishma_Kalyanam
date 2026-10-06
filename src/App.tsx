@@ -98,10 +98,6 @@ export default function App() {
 
   const photos = [
     {
-      url: 'https://lh3.googleusercontent.com/aida-public/AB6AXuA1Rphp9mLUHZ6Y9pm9c1rVf13t3srAzb00ONjKP-j0NwVfnWVdliQgcSpp3lGxDnsDmxRZKs4BwVeFSBI1vR0iTwoQQkBwRPQP_-KR04ezjgaPzDW_duSUm7CNd_6NblTOqp8fqCz9JC4kA7PdzMGWc7QQPz6xwQrhhJh7Zr5aUa3QTM4f2jj2CvjJE2FRtSs0p4p2OMVxnjxipFLRvGtOSR3j_8S6BLLneGADVqK8ny22L-1ASR3jC0MD5zwnyDjydA',
-      title: 'Praveen & Karishma – Traditional Sitting Portrait',
-    },
-    {
       url: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBARxEkMor8g3-3DRAlI7CdeWPJVqLxs4Zpg-ZNGD8h3RKQsFNhWyQ2eeMGaFrYH0Ou_oDEyfjUW_M1WoTEssXVTpv9ln4j2YR5f-j003GulD2N2XpOjz0bkXaViuj3H3VTEWF5AQCYlBwNxe4cbOlMF4oXsdMlUFqZDfmM_8eHjvQjafzDgPg0kDKIR3YtO5uGWASoMBs87m17fTTRjGU2vIjujU3zQeilIki5Ecx4ldGe-ME4PgLcML-Py2y3ZuWMgA',
       title: 'Praveen & Karishma – Smiling Radiance',
     },
