@@ -106,7 +106,7 @@ export default function App() {
       title: 'Praveen & Karishma – Strolling Together',
     },
     {
-      url: './Sitting.jpg',
+      url: 'https://raw.githubusercontent.com/KarishmaBS/Praveen_Karishma_Kalyanam/main/Sitting.jpg',
       title: 'Praveen & Karishma – Traditional Sitting Portrait',
     },
     {
